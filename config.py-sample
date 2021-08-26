@@ -1,0 +1,91 @@
+MY_COOKIE = 'verso_bucket=27; CN_geo_country_code=RU; \
+                OptanonConsent=groups%3DC0003%3A0%2CC0004%3A0%2CC0005%3A0; \
+                usprivacy=1---; s_fid=42692670E1F048AF-11BCB884D831AA28; \
+                CN_su=c3e0a8a5-00fa-417e-8f94-1dc7b05c6ab3; \
+                CN_xid=c0ad55d1-66e8-49b2-8daa-3b8f081be396; \
+                CN_token_access=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjQ2Nj\
+                A3YTFkYjVkNGRjODhhNjZiZmI2NjYxNjcwNGE3OWRhZGI5YmY1ZmQ0NTkyNjFmODY3\
+                N2M5ZmNiMzJiYTYifQ.eyJqdGkiOiJCOFpuN3RXaGJOYlZlQW83TmRWemIiLCJzdWI\
+                iOiJlMzUxYTUyOS01YzgzLTQ0MzktYjdkZS1kOGFjOThjNjYyZjYiLCJpYXQiOjE2M\
+                jg1MTg0OTcsImV4cCI6MTYyOTcyODA5Nywic2NvcGUiOiJvcGVuaWQgb2ZmbGluZV9\
+                hY2Nlc3MiLCJpc3MiOiJodHRwczovL2lkLmNvbmRlbmFzdC5jb20iLCJhdWQiOiJjb\
+                25kZW5hc3QuaWRlbnRpdHkuMWQ2MjZlYjY4ZjFjNDM1MDI0NDAwMGM5ZmM4ODhlMzg\
+                ifQ.wBAEja8VM6Kjr3LStJoAg98Z6mstleH3BFSNBQi99QwEunraw8uqPmLn7w1YrW\
+                3rd8WfLBK3PeRjnWH75fSAlMvMaZO4T6utZdUX5YJrHMFwvKlIk1-am2aRvfCC8Cfe\
+                sdYqmmmh656rril0RC-NRj0cfoJfBeOI7GYXJ_UbA9haav_4-wdYfQq1j7wXML_2lb\
+                LIQwXLrXw95tYLN6gLTfpMIOtea4D24L1ge3B2BIHT1Sp7-5ddf5pq5edmIPEmIu5P\
+                Wm3dXv2i8j2LxSkE9C23fU3GqZgAQswifI4NvR4DOEkdjq2t4nWVk_rv5JJlpPOAhT\
+                YOtP4I-ZHiSEvb8g; CN_token_id=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIs\
+                ImtpZCI6IjQ2NjA3YTFkYjVkNGRjODhhNjZiZmI2NjYxNjcwNGE3OWRhZGI5YmY1Zm\
+                Q0NTkyNjFmODY3N2M5ZmNiMzJiYTYifQ.eyJzdWIiOiJlMzUxYTUyOS01YzgzLTQ0M\
+                zktYjdkZS1kOGFjOThjNjYyZjYiLCJ4aWQiOiJjMGFkNTVkMS02NmU4LTQ5YjItOGR\
+                hYS0zYjhmMDgxYmUzOTYiLCJlbWFpbCI6InJ1c2xhbi5ha21AZ21haWwuY29tIiwiY\
+                XRfaGFzaCI6IjZHWUNITlZhQkVPZzNZSTVTeXVCZkEiLCJhdWQiOiJjb25kZW5hc3Q\
+                uaWRlbnRpdHkuMWQ2MjZlYjY4ZjFjNDM1MDI0NDAwMGM5ZmM4ODhlMzgiLCJleHAiO\
+                jE2Mjk3MjgwOTcsImlhdCI6MTYyODUxODQ5NywiaXNzIjoiaHR0cHM6Ly9pZC5jb25\
+                kZW5hc3QuY29tIn0.WF5byT0W40vo1JwzieFHg3c8cBswTEW1YNR9BdghmX31Yvy4C\
+                e8QagmMO1mcooCGH2dhlvQJfLA0-avEW8RWu5fqavq1XFrxZBPIRG-i2J0SeuXKoCj\
+                CMJ72SnXamLNBxwARvcw6Js2ndTeEBRH6RyL_IwWocTcS5Tn88cR-BU7widxHKUjXi\
+                FvJxY0wpC41842h5niYr7NvGuJV8fIpGvEGx6fU4owEiQ95CCMk5Bim7c2s3sOpNxc\
+                GHaymiPc924vHxpVz0JEHxVcsGAJNGIhCXzUwzIu57rRMbwcFYASyPSb-cUXo4itOR\
+                y-8WG5r464OlwM9CaJOIKkMuj7cwg; amg_user_partner=e351a529-5c83-4439\
+                -b7de-d8ac98c662f6; CN_token_refresh=pSa0xe0BxSINFrSY5EsEs1-sgRPAQ\
+                IjN6WBLNwb-3cT; CN_ipeh=%7B%22md5%22%3A%22ba2d64b544606254923c2cb9\
+                38f96528%22%2C%22sha1%22%3A%22e8da7854476be0cc8d543800fd49f5570e5d\
+                4fb9%22%2C%22sha256%22%3A%22ee180108759d0f88f635c53464e0f25f2e7611\
+                b2bfbc27c98f2185cbcf1d1e1c%22%7D; CN_authCheck=1; CN_xid_refresh=c\
+                0ad55d1-66e8-49b2-8daa-3b8f081be396; _wired_logged_in=1; \
+                _rdt_uuid=1628520187178.72dffff3-0250-46cb-a679-70e45a3bc9f2; \
+                G_ENABLED_IDPS=google; \
+                CN_userAuth=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlMzUxY\
+                TUyOS01YzgzLTQ0MzktYjdkZS1kOGFjOThjNjYyZjYiLCJpYXQiOjE2Mjg1MjAyMjM\
+                sImV4cCI6MTY2MDA3NzgyMywiaXNzIjoidXNlci1wbGF0Zm9ybS1nYXRld2F5In0.f\
+                u1WEEYVkEdWqAJ1cRG7IxXBvwttvQiQCy6yRB2E_KITlk8s9o3pwX8YECpOlfMV6NG\
+                TA37tZF-RcdW2KWuDJsSW7Y8ey9Fz6TrdLGfyEBpctjzH-L-3Ike7I7vgrTtlf7A1Y\
+                REi4byHec32Lb3On3_Rws552S6Wb7moC2-wWzjwIPNzq4eK7ZQD7JyYljA8xQa47vG\
+                PfaaHzd0TDZTQubv50lln67RW9Xlw7wUYfcpniCV4O8cVUV7yHl2X7ILSdZEb0eI7I\
+                ZeZs2xd8Tu5jjMtHiPcLluetzc7MifKPUE5qVV8GlrQeKc4Kr7s8Dw8et6UWx71P7h\
+                _tHC6vPDN5Q; \
+                pay_ent_sub=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlciI6MX0.eyJjbm\
+                VlQXV0aFRva2VuIjoiZGVhMGU4ZTYtODgwZS00NzU5LWJkYzYtMGVjZThjYTM5MjA1\
+                IiwiZXhwIjoyMDIxMDkwOH0.uLD0MvS6pM7u-ZUWBlL57Hh-0_rmGy0X7nYwIpR7-2k; \
+                pay_ent_pass=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlciI6MX0.eyJzY\
+                29wZXMiOiBbIndpcmVkLWFkcmljaCJdLCJleHAiOjIwMjEwOTA4fQ.IL8I6XPC0n1y\
+                85sauHkJjXx7lmpQqSDOQRfYFL-QGfE; \
+                _fbp=fb.1.1628599947794.1905547463; \
+                cneplayercaptions=showing; \
+                CN_segments=co.w2132|en.wir.a|en.a.1|aiq.130534; \
+                pay_ent_smp=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlciI6MX0.eyJ1cmx\
+                zIjpbXSwiY250IjowLCJtYXgiOjIsImV4cCI6MjAyMTA4fQ.ZdwKlXc1Ctq_kVYEVwW\
+                dMT2zNcJAbQ2Uwzl1CkO8gWg; CN_ad_block=1; s_sq=conde-wired%3D%2526c.\
+                %2526a.%2526activitymap.%2526page%253Dhttps%25253A%25252F%25252Fwww\
+                .wired.com%25252Fcategory%25252Fscience%25252Fpage%25252F2%25252F%2\
+                526link%253DWIRED%252520Logo%2526region%253Dlogo-bar%2526pageIDType\
+                %253D1%2526.activitymap%2526.a%2526.c%2526pid%253Dhttps%25253A%2525\
+                2F%25252Fwww.wired.com%25252Fcategory%25252Fscience%25252Fpage%2525\
+                2F2%25252F%2526pidt%253D1%2526oid%253Dhttps%25253A%25252F%25252Fwww\
+                .wired.com%25252F%2526ot%253DA; \
+                s_ppn=https%3A%2F%2Fwww.wired.com; \
+                s_pct=Homepage; \
+                pay_events=grant-high-propensity-smp; \
+                CN_in_visit_m=true; \
+                CN_visits_m=1630443600599%26vn%3D6; \
+                sinvisit_m=true; s_vnum_m=1630443600316%26vn%3D6; \
+                s_depth=1; timeSpent=1629677891654; \
+                s_nr=1629677891659-Repeat; \
+                cneplayercount=48; \
+                sailthru_pageviews=1; \
+                sailthru_content=1324b5260a142e4a3bc3c910b846581bc6f758746a4589e142\
+                b0920a52d956028c4b802b4157d15ece7377c0f98b85f7377c0179d4e2a3db4d32c\
+                912f0ee8855d30c8c5b1d72cbbee0b5a9a9de0e21685273b47cf0cb185033fdb51d\
+                4dd2a9540cfd2eba87e57442c4f8eb76e7254816a7017c8138b34879fe28e6829e2\
+                22766c79b244e423dbeaf55cc83f35e2822cafb3b1d8d2db80c5193e3a73c0351b1\
+                e90d0bdeeeaa5c0c2da3449fb4a9cdef7fa4adcd801d7f38de1059165554b4a854e\
+                1c556f9f143c9b0305b35723f452414e12ee5f80efef99de5532b446ae12a809be2\
+                3e4437b218c042da8b0a1712aac36036b9272b66a58d0545f8d039247dd4; \
+                sailthru_visitor=3401ea90-625c-44f4-bbd5-b76e03516924; \
+                OptanonConsent=groups=C0003:0,C0004:0,C0005:0=undefined&interaction\
+                Count=0&datestamp=Mon+Aug+23+2021+03%3A18%3A29+GMT%2B0300+(%D0%9C%D\
+                0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B\
+                0%D1%80%D1%82%D0%BD%D0%BE%D0%B5+%D0%B2%D1%80%D0%B5%D0%BC%D1%8F)&ver\
+                sion=6.19.0'
