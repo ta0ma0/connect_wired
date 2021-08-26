@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 import sys
-from  beautifulsoup4 import BeautifulSoup
+from  bs4 import BeautifulSoup
 from time import *
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
@@ -80,5 +80,5 @@ for num in (number + 1 for number in range(number_pages)):
             f.write('\n' + '\n')
     print(f"End page {num}")
     sleep(1)
-converted_output_file = output_file + ".html"
-convert_file.convert(output_file, converted_output_file)
+converted_output_file = output_file + ".pdf"
+convert(output_file, converted_output_file)
