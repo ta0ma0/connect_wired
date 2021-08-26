@@ -30,38 +30,6 @@ def help_choise():
     category = args.category
     output_file = args.category + "_wired_titles"
 
-
-    # if category == 'business':
-    #     output_file = 'business_wired_titles'
-    # elif category == 'culture':
-    #     output_file = 'culture_wired_titles'
-    # elif category == 'design':
-    #     output_file = 'design_wired_titles'
-    # elif category == 'gear':
-    #     output_file = 'gear_wired_titles'
-    # elif category == 'ideas':
-    #     output_file = 'ideas_wired_titles'
-    # elif category == 'science':
-    #     output_file = 'science_wired_titles'
-    # elif category == 'security':
-    #     output_file = 'security_wired_titles'
-    # elif category == 'transportation':
-    #     output_file = 'transportation_wired_titles'
-    # elif category == 'photo':
-    #     output_file = 'photo_wired_titles'
-    # elif category == 'video':
-    #     output_file = 'video_wired_titles'
-    # elif category == 'backchannel':
-    #     output_file = 'backchannel_wired_titles'
-    # elif category == 'video':
-    #     output_file = 'video_wired_titles'
-    # elif category == 'opinion':
-    #     output_file = 'opinion_wired_titles'
-    # elif category == 'magazine':
-    #     output_file = 'magazine_wired_titles'
-
-
-
     return([number, category, output_file])
 
 """

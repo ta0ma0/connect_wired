@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 import sys
-from bs4 import BeautifulSoup
+from  beautifulsoup4 import BeautifulSoup
 from time import *
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
